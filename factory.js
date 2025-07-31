@@ -51,4 +51,4 @@ class factory{
     }
 }
 
-module.exports = factory;
+export default factory;
